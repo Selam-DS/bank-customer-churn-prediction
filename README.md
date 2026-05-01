@@ -57,7 +57,7 @@ Features include:
 
 ### Behavioral Distribution Comparison
 
-![Behavior Distribution](images/Churn Distribution.png)
+![Behavior Distribution](images/churn_distribution.png)
 
 **Insight:** Clear separation between churned and retained customers is observed across key behavioral features. Transaction-related variables show strong divergence, reinforcing their predictive importance.
 
