@@ -11,9 +11,6 @@ This project builds a machine learning pipeline to predict customer churn for a 
 
 The project focuses on both predictive performance and interpretability to support data-driven customer retention strategies.
 
-  
-
----
 
   
 
@@ -26,10 +23,6 @@ The project focuses on both predictive performance and interpretability to suppo
 - Compare multiple machine learning models
 
 - Select the best-performing model for generalization
-
-  
-
----
 
   
 
@@ -53,9 +46,6 @@ Features include:
 
 - Transaction behavior (amount, count, utilization)
 
-  
-
----
 
   
 
@@ -73,9 +63,6 @@ Features include:
 
 - Addressed class imbalance using SMOTE
 
-  
-
----
 
   
 
@@ -97,10 +84,6 @@ Key insights:
 
   
 
----
-
-  
-
 ## Machine Learning Models
 
 The following models were evaluated:
@@ -114,10 +97,6 @@ The following models were evaluated:
 - XGBoost
 
 - Support Vector Machine (SVM)
-
-  
-
----
 
   
 
@@ -137,10 +116,6 @@ It captured nonlinear relationships in customer behavior more effectively than o
 
   
 
----
-
-  
-
 ## Key Results
 
 - Transaction activity was the strongest predictor of churn
@@ -150,10 +125,6 @@ It captured nonlinear relationships in customer behavior more effectively than o
 - Behavioral features were more important than demographic features
 
 - Model generalization was strong (small train-test performance gap)
-
-  
-
----
 
   
 
@@ -171,10 +142,6 @@ This model can help financial institutions:
 
   
 
----
-
-  
-
 ## Tech Stack
 
 - Python
@@ -188,10 +155,6 @@ This model can help financial institutions:
 - XGBoost
 
 - Imbalanced-learn (SMOTE)
-
-  
-
----
 
   
 
