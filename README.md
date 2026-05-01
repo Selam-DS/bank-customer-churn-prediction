@@ -43,21 +43,21 @@ Features include:
 
 ### Customer Churn Distribution
 
-![Churn Distribution](images/attrition_distribution.png)
+![Churn Distribution](images/attrition_distribution.pn)
 
 **Insight:** The dataset is moderately imbalanced, with significantly fewer churned customers compared to retained customers. This highlights the need for imbalance-handling techniques such as SMOTE.
 
 
 ### Customer Transaction Behavior
 
-![Transaction Behavior](images/transaction_count.png)
+![Transaction Behavior](images/transaction_count.pn)
 
 **Insight:** Customers who churn exhibit significantly lower transaction counts and transaction amounts, indicating reduced engagement prior to leaving. Declining activity is a strong early warning signal of churn.
 
 
 ### Behavioral Distribution Comparison
 
-![Behavior Distribution](images/Churn Distribution.png)
+![Behavior Distribution](images/Churn Distribution.pn)
 
 **Insight:** Clear separation between churned and retained customers is observed across key behavioral features. Transaction-related variables show strong divergence, reinforcing their predictive importance.
 
@@ -97,14 +97,14 @@ It captured nonlinear relationships in customer behavior more effectively than o
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.pn)
 
 **Insight:** The model effectively identifies churned customers while maintaining a balance between false positives and false negatives, which is critical for retention strategies.
 
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance.pn)
 
 **Insight:** Transaction activity and engagement metrics are the strongest predictors of churn. Features such as transaction count, transaction amount, and inactivity dominate model decisions.
 
